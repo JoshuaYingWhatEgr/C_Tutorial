@@ -3,4 +3,4 @@ project(C_Tutorial C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(C_Tutorial main.c)
+add_executable(C_Tutorial main.c integer_types.c integer_types.h float_point.h float_point.c variable.h variable.c)
